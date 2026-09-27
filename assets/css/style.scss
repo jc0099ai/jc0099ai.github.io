@@ -85,3 +85,23 @@ form button:hover {
   margin: 5px 30px 20px 0;
   border: 1px solid #dddddd;
 }
+
+/* Hide the description */
+.site-header .site-description {
+  display: none;
+}
+
+/* Replace Minima's default footer title with a quote */
+.site-footer .footer-heading {
+  display: none;
+}
+
+.site-footer .wrapper::before {
+  content: '"Break the glass ceiling."';
+  display: block;
+  text-align: center;
+  font-size: 18px;
+  font-style: italic;
+  color: #666666;
+  margin-bottom: 10px;
+}
