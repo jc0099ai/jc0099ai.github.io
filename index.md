@@ -3,6 +3,9 @@ layout: home
 title: Home
 ---
 
+<link rel="stylesheet" href="{{ 'style.scss' | relative_url }}">
+
+
 ## About Me
 
 <img src="{{ '/assets/images/pp.png' | relative_url }}"
