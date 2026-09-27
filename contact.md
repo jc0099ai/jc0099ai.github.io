@@ -4,6 +4,8 @@ title: Contact
 permalink: /contact/
 ---
 
+<link rel="stylesheet" href="{{ 'style.css' | relative_url }}">
+
 ## Contact Me
 
 If you would like to get in touch about research, collaboration, or other academic inquiries, please use the form below.
