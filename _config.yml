@@ -1,9 +1,14 @@
-title: Jess Chen's Personal Website
-description: PhD Candidate | Researcher
+title: "Jess Chen's Personal Website"
+description: "PhD Candidate | Researcher"
+
 theme: minima
+
+author:
+  name: "Jess Chen"
 
 header_pages:
   - projects.md
   - publications.md
   - blog.md
   - cv.md
+  - contact.md

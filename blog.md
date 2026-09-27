@@ -4,7 +4,7 @@ title: Blog
 permalink: /blog/
 ---
 
-# Blog
+<!-- # Blog -->
 
 <!-- Welcome to my blog.
 
