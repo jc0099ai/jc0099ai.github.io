@@ -20,6 +20,6 @@ I am a PhD candidate in Computer Science with a focus on building solutions towa
 - 🔬 Researching trustworthy and explainable medical AI
 - 📝 Publications and projects coming soon -->
 
-## Contact
+<!-- ## Contact
 
-Feel free to reach out if you are interested in research collaboration or discussing topics related to my research.
+Feel free to reach out if you are interested in research collaboration or discussing topics related to my research. -->
