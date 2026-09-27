@@ -7,7 +7,7 @@ theme: minima
 #   name: "Jess Chen"
 
 extra_css:
-  - style.scss
+  - style.css
 
 header_pages:
   - projects.md
