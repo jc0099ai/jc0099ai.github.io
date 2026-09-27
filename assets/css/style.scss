@@ -5,6 +5,18 @@ form {
   margin: 30px auto;
 }
 
+/* Contact form status */
+
+#form-result {
+  margin-top: 15px;
+  font-weight: 500;
+}
+
+form button:disabled {
+  opacity: 0.6;
+  cursor: not-allowed;
+}
+
 form label {
   display: block;
   margin-top: 18px;
@@ -66,8 +78,8 @@ form button:hover {
 
 .profile-picture {
   float: left;
-  width: 180px;
-  height: 180px;
+  width: 100px;
+  height: 100px;
   object-fit: cover;
   border-radius: 50%;
   margin: 5px 30px 20px 0;
