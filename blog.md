@@ -4,7 +4,7 @@ layout: page
 permalink: /blog/
 ---
 
-## Recent Posts
+### Recent Posts
 
 ### Coming Soon
 
