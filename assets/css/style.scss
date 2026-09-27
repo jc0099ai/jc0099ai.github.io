@@ -48,3 +48,16 @@ form button {
 form button:hover {
   background: #555555;
 }
+
+.profile-container {
+  text-align: center;
+  margin: 20px 0 30px 0;
+}
+
+.profile-picture {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  border-radius: 50%;
+  border: 1px solid #dddddd;
+}

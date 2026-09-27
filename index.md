@@ -3,6 +3,12 @@ layout: home
 title: Home
 ---
 
+<div class="profile-container">
+  <img src="{{ '/assets/images/profile.jpg' | relative_url }}"
+       alt="Jess Chen"
+       class="profile-picture">
+</div>
+
 ## About Me
 
 I am a PhD candidate in Computer Science with a focus on building solutions towards trustworthy medical AI, especially developing cutting-edge robust and explainable AI algorithms for computer-aided diagnosis using multi-imaging modalities.
