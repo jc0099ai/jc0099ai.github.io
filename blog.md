@@ -4,6 +4,8 @@ title: Blog
 permalink: /blog/
 ---
 
+<link rel="stylesheet" href="{{ 'style.css' | relative_url }}">
+
 ## Recent Posts
 
 ## Coming Soon
