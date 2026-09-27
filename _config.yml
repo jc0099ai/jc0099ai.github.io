@@ -1,3 +1,9 @@
-title: Jess Chen Personal Website
+title: Jess Chen's Personal Website
 description: PhD Candidate | Researcher
 theme: minima
+
+header_pages:
+  - projects.md
+  - publications.md
+  - blog.md
+  - cv.md

@@ -3,25 +3,23 @@ layout: home
 title: Home
 ---
 
-<!-- # Jess Chen
-
-PhD Candidate in Computer Science. -->
-
 ## About Me
 
-I am a PhD candidate in Computer Science with a focus in building solutions towards trustworthy medical AI, especially in develop cutting-edge robust and explainable AI algorithms in computer-aided diagnosis in multi-imaging-modalities.
+I am a PhD candidate in Computer Science with a focus on building solutions towards trustworthy medical AI, especially developing cutting-edge robust and explainable AI algorithms for computer-aided diagnosis using multi-imaging modalities.
 
 ## Research Interests
 
-- Machine Learning/Deep Learning
+- Machine Learning / Deep Learning
 - Computer Vision
-- Multimodal Computer-aided Diagnosis
+- Multimodal Computer-Aided Diagnosis
 - Affective Computing
 
-## Projects
+## News
 
-Coming soon.
+- 🎓 PhD Candidate in Computer Science
+- 🔬 Researching trustworthy and explainable medical AI
+- 📝 Publications and projects coming soon
 
-## CV
+## Contact
 
-[Download my CV](cv.pdf)
+Feel free to reach out if you are interested in research collaboration or discussing topics related to my research.
