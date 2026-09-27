@@ -78,17 +78,6 @@ form button:hover {
   border: 1px solid #dddddd;
 }
 
-/* Profile picture with text wrapping */
-
-/* .profile-picture {
-  /* float: left; */
-  width: 150px;
-  height: 150px;
-  object-fit: cover;
-  border-radius: 50%;
-  /* margin: 5px 30px 20px 0; */
-  border: 1px solid #dddddd;
-} */
 
 .site-footer { display: none !important; }
 
