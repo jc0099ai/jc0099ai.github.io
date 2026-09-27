@@ -1,8 +1,8 @@
 ---
-layout: default
-title: Contact
+layout: page
+# title: Blog
 permalink: /contact/
---------------------
+---
 
 # Contact Me
 
