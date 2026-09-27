@@ -6,6 +6,9 @@ theme: minima
 # author:
 #   name: "Jess Chen"
 
+extra_css:
+  - style.scss
+
 header_pages:
   - projects.md
   - publications.md
