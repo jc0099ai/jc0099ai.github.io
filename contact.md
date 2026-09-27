@@ -1,10 +1,10 @@
 ---
 layout: page
-# title: Blog
+title: Contact
 permalink: /contact/
 ---
 
-# Contact Me
+## Contact Me
 
 If you would like to get in touch about research, collaboration, or other academic inquiries, please use the form below.
 

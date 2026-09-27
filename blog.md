@@ -1,12 +1,12 @@
 ---
 layout: page
-# title: Blog
+title: Blog
 permalink: /blog/
 ---
 
-### Recent Posts
+## Recent Posts
 
-### Coming Soon
+## Coming Soon
 
 <!-- I will be publishing posts about:
 
