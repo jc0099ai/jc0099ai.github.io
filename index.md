@@ -4,7 +4,7 @@ title: Home
 ---
 
 <div class="profile-container">
-  <img src="{{ '/assets/images/profile.jpg' | relative_url }}"
+  <img src="{{ '/assets/images/pp.png' | relative_url }}"
        alt="Jess Chen"
        class="profile-picture">
 </div>
