@@ -11,10 +11,6 @@ title: Home
 
 I am a PhD candidate in Computer Science with a focus on building solutions towards trustworthy medical AI, especially developing cutting-edge robust and explainable AI algorithms for computer-aided diagnosis using multi-imaging modalities.
 
-My research focuses on developing reliable and interpretable artificial intelligence systems that can support medical decision-making across different imaging modalities.
-
-My broader interests include machine learning, computer vision, multimodal learning, explainable AI, and trustworthy AI.
-
 <br clear="all">
 
 
