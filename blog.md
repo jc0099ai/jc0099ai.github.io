@@ -1,14 +1,8 @@
 ---
 layout: page
-title: Blog
+# title: Blog
 permalink: /blog/
 ---
-
-<!-- # Blog -->
-
-<!-- Welcome to my blog.
-
-Here I will write about research, machine learning, computer vision, medical AI, programming, and other topics related to my work. -->
 
 ## Recent Posts
 
