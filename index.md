@@ -16,9 +16,9 @@ I am a PhD candidate in Computer Science with a focus on building solutions towa
 
 ## News
 
-- 🎓 PhD Candidate in Computer Science
+<!-- - 🎓 PhD Candidate in Computer Science
 - 🔬 Researching trustworthy and explainable medical AI
-- 📝 Publications and projects coming soon
+- 📝 Publications and projects coming soon -->
 
 ## Contact
 
